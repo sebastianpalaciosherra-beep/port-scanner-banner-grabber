@@ -1,7 +1,7 @@
 import socket
 
 # Definimos la IP objetivo
-ip_objetivo = '192.168.0.41 ' 
+ip_objetivo = '172.67.161.157' 
 
 # Puertos a escanear
 puerto_inicio = 1
